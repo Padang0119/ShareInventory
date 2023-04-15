@@ -1,0 +1,4 @@
+name: ShareInventory
+version: '${project.version}'
+main: org.shareinvetory.shareinventory.ShareInventory
+api-version: 1.19
